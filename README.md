@@ -3,10 +3,6 @@
 ##Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the audit of a recent local congressional election. After auditing the election results the commission requested some additional data to complete the audit. In addition to the voter turnout, winners, the number of votes received, and the percentage each candidate received they wanted us to add voter turnout for each county, the percentage of votes from each county, and the county with the highest turnout.
 
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio, 1.38.1
-
 
 ![Pypoll text](https://user-images.githubusercontent.com/108442512/202873649-fe12ff45-83ee-4b8b-8176-12c50f06996a.png)
 
