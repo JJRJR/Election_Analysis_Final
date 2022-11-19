@@ -1,7 +1,7 @@
 # Election_Analysis_Final
 
 ##Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the audit of a recent local congressional election. After auditing the election results the commission requested some additional data to complete the audit. In addition to the voter turnout, winners, the number of votes received, and the percentage each candidate received they wanted us to add voter turnout for each county, the percentage of votes from each county, and the county with the highest turnout.
+A Colorado Board of Elections employee has given you the following tasks to complete the audit of a recent local congressional election. After reviewing the election results the commission requested some additional data to complete the audit. In addition to the voter turnout, winners, the number of votes received, and the percentage each candidate received they wanted us to add voter turnout for each county, the percentage of votes from each county, and the county with the highest turnout.
 
 
 ## Summary
